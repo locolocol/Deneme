@@ -1,4 +1,3 @@
-// This is Locol 
 @istest
 public  class AccountTriggerHandlerTest {
 @istest
