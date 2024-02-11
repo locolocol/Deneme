@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Deneme",
+  "namespace": "",
+  "sfdcLoginUrl": "https://denemecompany2-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "55.0"
+}
